@@ -1,6 +1,3 @@
 [submodule "content/mycontent-submodule"]
 	path = content/mycontent-submodule
 	url = https://github.com/rezajax/obsidian-web.git
-[submodule "content/obsidian"]
-	path = content/obsidian
-	url = https://github.com/rezajax/obsidian.git
