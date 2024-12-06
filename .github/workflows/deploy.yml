@@ -24,7 +24,6 @@ jobs:
           
       - name: Add submodule for content
         run: |
-          git submodule add https://github.com/rezajax/obsidian.git content
           git submodule update --init --recursive
 
       - uses: actions/setup-node@v4
